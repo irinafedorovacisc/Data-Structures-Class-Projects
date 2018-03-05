@@ -1,0 +1,7 @@
+language: c++
+
+}"
+
+script:
+ - $CXX sorting.cpp 
+ - ./a.out  

@@ -1,0 +1,37 @@
+
+Given 3 groups of numbers  : 
+
+1. almost sorted (few numbers out of order) 
+2. random 
+3. reversed
+
+ each group has 3  sets of  10, 50, 100 numbers
+
+
+ Count how many comparisons and interchanges EACH of those sorts did for EACH group.
+ OUTPUT SHOULD SHOW WHICH SORT USED THE MOST COMPARISONS, WHICH WAS THE 
+MIDDLE AND WHICH USED THE LEAST(SAME FOR  INTERCHANGES)WRITE 3 FUNCTIONS TO 
+CALCULATE VALUES.
+
+		EXAMPLE OF OUTPUT:
+
+set of 10		comparisons                           interchanges
+-------------------------------------------------------------------------------------------------------
+bubble		xxx			xxx
+heap                               xxx			xxx
+quicksort                       xxx			xxx
+
+set of 50
+-------------------------------------------------------------------------------------------------------
+bubble		xxx			xxx
+heap                               xxx			xxx
+quicksort                       xxx			xxx
+
+set of 100
+-------------------------------------------------------------------------------------------------------
+bubble		xxx			xxx
+heap                               xxx			xxx
+quicksort                       xxx			xxx
+
+
+
